@@ -12,3 +12,5 @@ Link figma: https://www.figma.com/file/1okf6wm64jjYk8jGuuZGM6/Integrated-Project
 
 ## Website Loykrathong online
 ![alt text](/loy.jpg/?raw=true "One")
+
+Draft design by Ai and Ps
