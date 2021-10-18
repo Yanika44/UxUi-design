@@ -1,3 +1,6 @@
+## Resume: Yanika Putorn
+![alt text](/Resume.jpg/?raw=true "Zero")
+
 ### Final Project UxUi's subject
 Link figma: https://www.figma.com/file/PgwWcr5AhKR1rGL4yonmY4/Final-project-UX-UI
 
@@ -13,4 +16,4 @@ Link figma: https://www.figma.com/file/1okf6wm64jjYk8jGuuZGM6/Integrated-Project
 ## Website Loykrathong online
 ![alt text](/loy.jpg/?raw=true "One")
 
-Draft design by Ai and Ps
+Draft design by Adobe Illustrator, Adobe Photoshop and Figma
