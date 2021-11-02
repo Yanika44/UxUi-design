@@ -14,6 +14,12 @@ Link figma: https://www.figma.com/file/PgwWcr5AhKR1rGL4yonmY4/Final-project-UX-U
 Link figma: https://www.figma.com/file/1okf6wm64jjYk8jGuuZGM6/Integrated-Project?node-id=0%3A1
 
 ## Website Loykrathong online
-![alt text](/loy.jpg/?raw=true "One")
+![alt text](/loy.jpg/?raw=true "Three")
+
+### IT Cheat Sheet Project 
+Link figma: https://www.figma.com/file/wXgZpFSouUK5VxG05kZvvZ/Cheat-Sheet-%23Project
+
+## Website Cheat Sheet Project
+![alt text](/CheatSheet.png/?raw=true "Four")
 
 Design by Adobe Illustrator, Adobe Photoshop and Figma
